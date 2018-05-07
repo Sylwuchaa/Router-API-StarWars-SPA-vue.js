@@ -1,0 +1,10 @@
+body {
+    background: rgb(0, 140, 98);
+}
+
+#app {
+    font-family: 'Avenir', Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 80px;
+    color: azure;
+}
