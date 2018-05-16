@@ -5,7 +5,7 @@ body {
 #app {
     font-family: 'Avenir', Helvetica, sans-serif;
     text-align: center;
-    margin-top: 80px;
+    margin-top: 30px;
     color: azure;
 }
 
@@ -21,4 +21,9 @@ body {
 }
 .card-title {
     margin: 15px;
+}
+
+.link, .link:hover, .link:visited, .link:active {
+    color: #4fc08d;
+
 }
