@@ -27,3 +27,11 @@ body {
     color: #4fc08d;
 
 }
+
+.item-card {
+    border: 2px solid #4FC08D;
+    border-radius: 4px;
+    padding: 5px;
+    padding-bottom: 10px;
+    cursor: pointer;
+  }
